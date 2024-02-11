@@ -1,0 +1,4 @@
+pyperclip
+get-key
+nltk
+requests
